@@ -95,4 +95,14 @@ This is a fairly straightforward testing scneario.
     This case is to check the fullness of queue
 
 ### Conclusion
-In this example, we are not considering race condition (which will happen depending on the service being used)
+In this example, we are not considering race condition (which will happen depending on the service being used).
+In the next post we can tackle this rate limiter to be more robust with respect to race condition.
+
+### Notes:
+This rate limiter is made as a function in python but that does not guarantee this is going to be a singleton.
+If this is served by gunicorn and worker thread, then each worker thread will have its own access_cache.
+Ideally, access_cache can be moved to some form of in-memory database like Redis. 
+I do not know if redis supports multi process (multi process access is harder than multi threaded access since threads share the same memory space) access. 
+
+### Resources & LeetCode
+[Todo]

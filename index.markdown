@@ -8,37 +8,12 @@ layout: home
 
 
 
-I'm Shanu Stephen, a software developer with a strong aptitude for learning and a passion for solving real-world production challenges. I’m versatile across multiple programming languages, including C, C++, C#, and Python, and thrive on taking ideas from concept through to production and ongoing support. My ability to conduct thorough research and deliver robust solutions ensures that I can handle every stage of the software development lifecycle.
 
-<p>
-I've been fortunate to work on a diverse range of software applications, each offering unique challenges and opportunities. This exposure has not only broadened my horizons but also deepened my understanding of product development. It has instilled in me a strong focus on creating solutions that truly benefit the end user while satisfying my need to continue learning and solving real world problems.
+**Hello, I'm Shanu Stephen**
 
-- Worked across various domains, including:
-  - Embedded systems
-  - Application development
-  - Server-side solutions
-  - Desktop applications
+I'm a software developer with a strong focus on continuous learning and solving practical problems. I specialize in programming languages like C, C++, C#, and Python, and I take pride in guiding projects from initial concept through to production and post-launch support.
 
-- Experience spans multiple industries, such as:
-  - Automotive infotainment
-  - ADAS (Advanced Driver Assistance Systems)
-  - Mobile phones (Network layer side)
-  - Consumer electronics
-  - Server-side and desktop application development
-
-- Contributed to multiple layers of technology:
-  - Board support packages
-  - Middleware
-  - Bare metal development
-  - Application and architecture design
-
-- Involved in all stages of software development:
-  - Ideation
-  - Prototyping
-  - Production
-  - Maintenance
-  - Reuse
-</p>
+My approach involves thorough research and delivering dependable solutions, ensuring that each phase of the software development lifecycle is managed with precision.
 
 ```
 **Important**

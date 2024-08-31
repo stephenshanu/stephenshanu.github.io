@@ -4,11 +4,6 @@
 
 layout: home
 ---
-## Shanu Stephen
-
-
-
-
 **Hello, I'm Shanu Stephen**
 
 I'm a software developer with a strong focus on continuous learning and solving practical problems. I specialize in programming languages like C, C++, C#, and Python, and I take pride in guiding projects from initial concept through to production and post-launch support.
@@ -16,7 +11,7 @@ I'm a software developer with a strong focus on continuous learning and solving 
 My approach involves thorough research and delivering dependable solutions, ensuring that each phase of the software development lifecycle is managed with precision.
 
 ```
-**Important**
+**Note**
 I'm not a web developer, nor do I have much of an eye for design. 
 Please don't judge the appearance of this portfolio page. 
 
@@ -30,6 +25,7 @@ I've had the privilege of working on a broad spectrum of software systems, each 
   - Embedded systems
   - Application development
   - Server-side solutions
+  - cloud based solution
   - Desktop applications
 
 - **Industry Exposure**:
